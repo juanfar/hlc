@@ -1,0 +1,7 @@
+La lógica constituye la herramienta formal de razonamiento de la mayor parte de las asignaturas de la carrera de informática, sobre todo de las que están más relacionadas con las matemáticas y la programación.
+La lógica computacional es la misma lógica matemática aplicada al contexto de las ciencias de la computación. Su uso es fundamental a varios niveles: en los circuitos computacionales, en la programación lógica y en el análisis y optimización (de recursos temporales y espaciales) de algoritmos.
+Todo sistema computacional, por muy complejo que sea, no está compuesto por más que circuitos electrónicos que únicamente entienden un lenguaje binario. La lógica computacional se encarga de modelar y optimizar tales sistemas a este nivel.
+
+
+Referencias
+TEMA 1- ¿Qué es lógica computacional? - http://logicaunab.blogspot.com/

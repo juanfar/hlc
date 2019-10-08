@@ -1,0 +1,19 @@
+.pregunta1, .pregunta2, .pregunta3 {
+    padding: 20px;
+    min-height: 255px;
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: #fff;
+}
+
+.pregunta1 {
+    background: #ba4c63;
+}
+
+.pregunta2 {
+    background: #1fa4b6;
+}
+
+.pregunta3 {
+    background: #130f0f;
+}
